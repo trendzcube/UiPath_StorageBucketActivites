@@ -3682,9 +3682,9 @@
     "restore": {
       "projectUniqueName": "ListStorageFiles",
       "projectName": "ListStorageFiles",
-      "projectPath": "C:\\GitHub Files\\UiPath_StorageBucketActivites_Development\\UiPath_StorageBucketActivites\\.local",
+      "projectPath": "C:\\GitHub Files\\Git Final\\UiPath_StorageBucketActivites\\.local",
       "packagesPath": "C:\\Users\\surya\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub Files\\UiPath_StorageBucketActivites_Development\\UiPath_StorageBucketActivites\\.local"
+      "outputPath": "C:\\GitHub Files\\Git Final\\UiPath_StorageBucketActivites\\.local"
     },
     "frameworks": {
       "net461": {
